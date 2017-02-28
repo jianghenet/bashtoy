@@ -1,0 +1,5 @@
+#Bash aliases
+alias gpl='git pull'
+alias gst='git st'
+alias glg='git lg'
+alias deploydev='bundle exec cap development deploy'
